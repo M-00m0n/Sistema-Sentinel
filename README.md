@@ -48,4 +48,6 @@ O sistema opera seguindo uma lógica de *Data Segregation*:
 ### Clonagem do Repositório
 ```bash
 git clone https://github.com/M-00m0n/Sistema-Sentinel.git
+cd ~/Sistema-Sentinel
 python3 sentinel.py
+
