@@ -44,7 +44,7 @@ O sistema opera seguindo uma lógica de *Data Segregation*:
 ### Pré-requisitos
 * Python 3.6+ instalado.
 * Sistema operacional compatível com terminal (Linux, Windows, macOS).
-
+* TERMUX
 ### Clonagem do Repositório
 ```bash
 git clone https://github.com/M-00m0n/Sistema-Sentinel.git
